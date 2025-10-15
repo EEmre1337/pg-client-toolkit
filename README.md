@@ -10,4 +10,3 @@ Pixelated Bot for DO/PG (works for most Flash-based private servers) — require
 - **Modular components:** `Client`, `Minimap`, `Navigator`, `Ship`, `PET`, `Collector`, `Hunter`, `Scheduler`
 - **Deterministic image processing:** HSV isolation, pixel equality, reference images
 
-> **Note:** This repository is provided for learning/demo purposes. Do not use it to violate third-party terms of service.
